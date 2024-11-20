@@ -3,7 +3,7 @@
   "builds": [
       {
           "src": "*.py",
-          "use": "Bob_and_Fill/now-flask"
+          "use": "superHotBob/python_versel"
       }
   ],
   "routes": [
